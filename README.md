@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marwan</h1>
-<h3 align="center">A Sophomore Computer Science student at Cairo univeristy. I am passionate about problem solving using data structures and algorithms. Future Software Engineer inshAllah</h3>
+<h3 align="center">A Sophomore Computer Science student at Cairo univeristy.\n I am passionate about problem solving using data structures and algorithms. Future Software Engineer inshAllah</h3>
 
 - 📫 How to reach me **marwann.ahmedd2003@gmail.com**
 
