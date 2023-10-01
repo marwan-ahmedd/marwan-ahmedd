@@ -1,5 +1,5 @@
 <h1 align="center">Marwan Ahmed</h1>
-<h3 align="center">Sophomore Computer Science student at Cairo univeristy. Future Software Engineer inshAllah</h3>
+<h3 align="center">Junior Computers and AI Student @ Cairo univeristy. </h3>
 
 - 📫 How to reach me **marwann.ahmedd2003@gmail.com**
 - Portfolio **https://marwan-ahmedd.github.io/Marwan/**
