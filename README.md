@@ -1,5 +1,5 @@
 <h1 align="center">Marwan Ahmed</h1>
-<h3 align="center">Junior Computers and AI Student @ Cairo univeristy. </h3>
+<h3 align="center">Senior Computers and AI Student @ Cairo univeristy. </h3>
 
 - 📫 How to reach me **marwann.habibb@gmail.com**
 - Resume **https://drive.google.com/drive/folders/1IFZtvKq5MpLiQk4OwlRVcULjHb8727mg?usp=sharing**
