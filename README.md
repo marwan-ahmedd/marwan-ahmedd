@@ -1,8 +1,8 @@
 <h1 align="center">Marwan Ahmed</h1>
 <h3 align="center">Junior Computers and AI Student @ Cairo univeristy. </h3>
 
-- 📫 How to reach me **marwann.ahmedd2003@gmail.com**
-- Portfolio **https://marwan-ahmedd.github.io/Marwan/**
+- 📫 How to reach me **marwann.habibb@gmail.com**
+- Resume **https://drive.google.com/drive/folders/1IFZtvKq5MpLiQk4OwlRVcULjHb8727mg?usp=sharing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
